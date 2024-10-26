@@ -1,0 +1,3 @@
+[submodule "ButtonSlider"]
+	path = ButtonSlider
+	url = git@github.com:Ranixculiva/ButtonSlider.git
